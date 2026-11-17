@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background-color: #f9f6f0; color: #333; text-align: center; padding: 20px; }
+h1 { color: #6f4e37; }
+nav a { margin: 0 10px; font-weight: bold; color: #6f4e37; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+button { background-color: #6f4e37; color: white; border: none; padding: 10px 15px; margin: 5px; border-radius: 5px; cursor: pointer; }
+button:hover { background-color: #543b28; }
